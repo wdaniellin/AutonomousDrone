@@ -12,3 +12,6 @@ waiting on physical parts to ship (need to practice soldering)
 Aug. 10/26 progress
 need to start physically prototyping
 <img width="1433" height="654" alt="image" src="https://github.com/user-attachments/assets/f7a91fbb-ea0b-46b6-9d89-cc29b51fca0d" />
+
+Aug. 11/26 Prototyping design:
+<img width="1048" height="612" alt="image" src="https://github.com/user-attachments/assets/09d3c8df-c5e4-4e79-9061-36960d31bcd7" />

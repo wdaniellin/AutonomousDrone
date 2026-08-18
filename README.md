@@ -19,4 +19,4 @@ Aug. 11/26 Prototyping design:
 -- 3d printing and parts fitting
 
 Aug. 17/26 Electronics soldering and frame assembly
-Aug
+<img width="791" height="606" alt="image" src="https://github.com/user-attachments/assets/e0cd2f1c-4a37-4cac-9b30-9a37fd8691a7" />

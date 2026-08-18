@@ -15,3 +15,8 @@ need to start physically prototyping
 
 Aug. 11/26 Prototyping design:
 <img width="1048" height="612" alt="image" src="https://github.com/user-attachments/assets/09d3c8df-c5e4-4e79-9061-36960d31bcd7" />
+
+-- 3d printing and parts fitting
+
+Aug. 17/26 Electronics soldering and frame assembly
+Aug
